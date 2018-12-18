@@ -1,0 +1,32 @@
+.twitter-tweet {
+  margin: auto;
+  max-width: 90% !important;
+}
+
+.CallToAction {
+  display: none !important;
+  visibility: hidden !important;
+}
+
+button.shuffle {
+  display: block;
+  margin: auto;
+  width: 500px;
+  height: 200px;
+  max-width: 90%;
+  border-radius: 15px;
+  background-color: #1DA1F2;
+  border: none;
+}
+
+button.shuffle:focus {
+  outline: none;
+}
+
+button.shuffle:active {
+  background-color: #ffffff;
+}
+
+#shuffle-icon {
+  width: auto;
+}
